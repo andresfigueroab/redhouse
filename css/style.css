@@ -71,10 +71,10 @@ html,body {
 	text-decoration: none;
 }
 .top-nav ul li a.active{
-	background:#34BBB1;
+	background:#a8a0a0;
 }
 .top-nav ul li a:hover{
-	background:#34BBB1;
+	background:#a8a0a0;
 	color:#FFF;
 	transition:.5s all;
 	-webkit-transition:.5s all;
